@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.ee{
+  color: aqua;
+  background-color: black;
+}
+
+.ss{
+  color: hotpink;
+  background-color: black;
+  font-size: 40px;
+}
+
+.tab{
+  background-color: yellow;
+  color: black;
+  text-align: center;
+}
+
+table,th,td{
+  border : 1px solid red;
+}
